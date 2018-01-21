@@ -1,0 +1,1 @@
+{"name":"Ayush Singhal","age":22,"adress":{"societyName":"Amarpaali","houseNo":"L701"},"salary":25000}
